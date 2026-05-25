@@ -32,3 +32,6 @@ class SharmaVishnu:
 
 new_market = SharmaVishnu()
 new_market.menu()
+
+#3. object method 
+'''this is the normal method which we call using object and be accessed using objects'''
